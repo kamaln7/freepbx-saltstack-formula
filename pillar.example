@@ -1,2 +1,2 @@
-template:
-  master: template-master
+freepbx:
+  master: freepbx-master
